@@ -1,0 +1,14 @@
+body{
+    background-color: #2A3136;
+    color: #FFFFFF;
+}
+strong{
+    color: #1589E0;
+}
+h1{
+    font-weight: bold;
+}span{
+    color: palevioletred;
+    border: 1px solid #1589E0;
+    padding: 10px;
+}
